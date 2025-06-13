@@ -52,8 +52,8 @@ IMAGE-COMPRESSION-MAIN/
 │   ├── Cat1.png
 |   ├── Cat2.png
 │   ├── RDR2(1).png
-|   ├── RDR2(2).png
-│   └── revan.png
+|   └── RDR2(2).png
+│
 |
 |
 └── .gigignore
