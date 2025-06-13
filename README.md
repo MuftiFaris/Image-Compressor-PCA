@@ -43,7 +43,7 @@
 ```text
 IMAGE-COMPRESSION-MAIN/
 ├── requirements.txt
-├── project2.py
+├── main.py
 ├── pages/
 │   └── pca.py
 ├── Image/
