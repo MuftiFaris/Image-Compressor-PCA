@@ -54,8 +54,8 @@ IMAGE-COMPRESSION-MAIN/
 │   ├── RDR2(1).png
 |   ├── RDR2(2).png
 │   └── revan.png
-├── Resources
-|   └──Machine Learning Techniques.png
+|
+|
 └── .gigignore
 ```
 The images and img folders are just examples, use the folders according to your path that contains the photo files.
