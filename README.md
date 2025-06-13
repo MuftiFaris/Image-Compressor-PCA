@@ -1,4 +1,4 @@
-# <p align="center">🚀 FaceRecognition Image Compression with PCA and Streamlit</p>
+# <p align="center">🚀 Image Compression with PCA and Streamlit</p>
 
 <p align="center">
   <a href="[URL_DEMO]" target="_blank">🔍 Live Demo Program</a> ·
