@@ -1,4 +1,4 @@
-# <p align="center">🚀 Image Compression with PCA and Streamlit</p>
+# <p align="center">🚀 Image Compression with PCA and Flask</p>
 
 <!--
 <p align="center">
