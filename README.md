@@ -1,8 +1,10 @@
 # <p align="center">🚀 Image Compression with PCA and Streamlit</p>
 
+<!--
 <p align="center">
   <a href="[URL_DEMO]" target="_blank">🔍 Live Demo Program</a> ·
 </p>
+-->
 
 ---
 
@@ -92,6 +94,17 @@ The app will be available at http://localhost:5000.
 ---
 
 ## Screenshots
+### Figure 1
+MAIN MENU
+![Figure 1: Main Menu](ss/mainmenu.png)
+
+### Figure 2
+IMAGE
+![Figure 2: Result](ss/image.png)
+
+### Figure 3
+GRAPH
+![Figure 3: Result](ss/graph.png)
 
 ---
 
