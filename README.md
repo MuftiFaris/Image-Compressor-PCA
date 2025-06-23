@@ -55,6 +55,11 @@ IMAGE-COMPRESSION-MAIN/
 │   ├── yusran.jpeg
 |   └── faris.JPG
 |
+├── ss/
+│   ├── mainmenu.png
+│   ├── image.png
+|   └── graph.png
+|
 └── .gigignore
 ```
 ---
